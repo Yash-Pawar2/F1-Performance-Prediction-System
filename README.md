@@ -11,6 +11,28 @@ Formula 1 teams generate millions of telemetry and timing data points during eve
 This project builds an end-to-end Formula 1 analytics and machine learning pipeline using FastF1, collecting data from 10 Formula 1 seasons covering 200+ Grands Prix and 250,000+ race laps. The solution integrates automated data collection, preprocessing, exploratory analysis, predictive modeling, and interactive dashboards to uncover driver performance patterns, optimize race strategy analysis, and forecast lap times using real-world Formula 1 data.
 
 ---
+
+## 🗂️ Dataset Details
+
+| Property | Description |
+| :--- | :--- |
+| **Dataset Name** | Formula 1 Lap-by-Lap Race Dataset |
+| **Source** | FastF1 API |
+| **Seasons Covered** | **2018–2025** |
+| **Rows** | **190,914** |
+| **Columns** | Season, Round, Race, Driver, Team, LapNumber, Compound, TyreLife, Stint, Position, TrackStatus, RacePhase, IsSoft, TyreAge, PitStop, DriverAvgLap, TeamAvgLap, PositionGroup, TrackCondition |
+| **Target Variable** | **Lap Time (seconds)** |
+
+---
+
+## 🎯 Objectives
+
+1. **Exploratory Data Analysis (EDA):** Analyze Formula 1 race performance, driver consistency, tyre strategies, and team performance across multiple seasons.
+2. **Data Preprocessing:** Develop a robust data processing pipeline to clean race telemetry, handle missing values, engineer meaningful features, and prepare the dataset for machine learning.
+3. **Visual Storytelling:** Create insightful visualizations to uncover relationships between race conditions, tyre degradation, driver performance, and lap times.
+4. **Machine Learning Modeling:** Train and evaluate multiple regression models (**Linear Regression, Decision Tree, Random Forest, and XGBoost**) to accurately predict Formula 1 lap times and compare their predictive performance.
+
+---
 ## 📈 Key Insights & Racing Performance Impact
 
 ### 🏎️ Race Performance Overview
