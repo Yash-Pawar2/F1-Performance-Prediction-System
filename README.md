@@ -194,7 +194,6 @@ This project evaluates multiple regression algorithms to predict Formula 1 lap t
 | :--- | ---: | ---: | ---: |
 | **XGBoost** | **0.742** | **1.021** | **0.962** |
 | **Random Forest** | **0.781** | **1.087** | **0.955** |
-| **Decision Tree** | **0.965** | **1.321** | **0.923** |
 | **Linear Regression** | **1.458** | **1.842** | **0.861** |
 
 **Technical Note:** Among all evaluated models, **XGBoost** achieved the highest predictive performance with an **R² Score of 0.962**, explaining approximately **96.2% of the variation** in Formula 1 lap times. Its superior ability to model nonlinear interactions between driver performance, tyre strategy, race conditions, and track characteristics resulted in the lowest prediction errors (MAE = **0.742**, RMSE = **1.021**). Random Forest also demonstrated excellent performance, while Linear Regression served as an interpretable baseline for comparison.
