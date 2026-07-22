@@ -16,7 +16,7 @@ This project builds an end-to-end Formula 1 analytics and machine learning pipel
 
 | Property | Description |
 | :--- | :--- |
-| **Dataset Name** | Formula 1 Lap-by-Lap Race Dataset |
+| **Dataset Name** | F1_2018_2025_All.csv |
 | **Source** | FastF1 API |
 | **Seasons Covered** | **2018–2025** |
 | **Rows** | **190,914** |
