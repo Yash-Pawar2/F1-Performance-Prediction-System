@@ -1,5 +1,25 @@
-# F1-Performance-Prediction-System
+<div align="center">
+
+# 🏎️ Formula 1 Race Performance Analysis & Lap Time Prediction
+### End-to-End Data Science Project · 200K+ Lap Records · 2018–2025
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://matplotlib.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-Regression-006400?style=for-the-badge)](https://xgboost.readthedocs.io/)
+
+[![FastF1](https://img.shields.io/badge/FastF1-Formula%201-E10600?style=for-the-badge)](https://theoehrly.github.io/Fast-F1/)
+[![Dataset](https://img.shields.io/badge/Rows-200K%2B-blueviolet?style=for-the-badge)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/yash-pawar2/F1-Performance-Prediction-System?style=for-the-badge)](https://github.com/yash-pawar2/F1-Performance-Prediction-System)
+
+> Transforming **200,000+ Formula 1 lap records** into actionable racing insights—analyzing driver performance, team pace, tyre strategies, and race dynamics while developing machine learning models to predict lap times across multiple Formula 1 seasons.
+
+</div>
+
 ---
+
 ## 📌 Problem Statement
 
 Formula 1 teams generate millions of telemetry and timing data points during every race weekend, but transforming this raw data into actionable insights remains a significant challenge. Teams, analysts, and fans often seek answers to three critical questions:
