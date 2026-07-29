@@ -12,7 +12,7 @@
 
 [![FastF1](https://img.shields.io/badge/FastF1-Formula%201-E10600?style=for-the-badge)](https://theoehrly.github.io/Fast-F1/)
 [![Dataset](https://img.shields.io/badge/Rows-200K%2B-blueviolet?style=for-the-badge)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/yash-pawar2/F1-Performance-Prediction-System?style=for-the-badge)](https://github.com/yash-pawar2/F1-Performance-Prediction-System)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Yash-Pawar2/F1-Performance-Prediction-System?style=for-the-badge)](https://github.com/Yash-Pawar2/F1-Performance-Prediction-System)
 
 > Transforming **200,000+ Formula 1 lap records** into actionable racing insights—analyzing driver performance, team pace, tyre strategies, and race dynamics while developing machine learning models to predict lap times across multiple Formula 1 seasons.
 
@@ -246,6 +246,6 @@ Formula 1 lap times can be accurately predicted by combining race context, drive
 
 🎯 Aspiring Data Analyst | Python & Machine Learning Enthusiast | MIT-WPU
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pawar2/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yash-pawar2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yash-Pawar2/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Yash-Pawar2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Yash.r.pawar246@gmail.com)
