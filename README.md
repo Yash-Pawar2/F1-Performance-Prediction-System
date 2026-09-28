@@ -135,6 +135,9 @@ The **2020–2021** seasons produced the fastest average lap times, reflecting h
 **Finding:** Sector performance is the primary determinant of overall lap time, while tyre management and race strategy contribute to long-run consistency. Sector times should be excluded from predictive models to avoid target leakage.
 
 ---
+### 📊 Dashboard
+
+![F1 Dashboard](Dashboard/Dashboard.png)
 
 ### 🎯 Strategic Impact
 
