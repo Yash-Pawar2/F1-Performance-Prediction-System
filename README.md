@@ -135,9 +135,6 @@ The **2020–2021** seasons produced the fastest average lap times, reflecting h
 **Finding:** Sector performance is the primary determinant of overall lap time, while tyre management and race strategy contribute to long-run consistency. Sector times should be excluded from predictive models to avoid target leakage.
 
 ---
-### 📊 Dashboard
-
-![F1 Dashboard](Dashboard/Dashboard.png)
 
 ### 🎯 Strategic Impact
 
@@ -223,6 +220,12 @@ This project evaluates multiple regression algorithms to predict Formula 1 lap t
 
 ---
 
+### 📊 Dashboard
+<p align="center">
+  <img src="Dashboard/Dashboard.png" alt="F1 Performance Prediction Dashboard" width="100%">
+</p>
+
+---
 ### 🎯 Key Takeaway
 
 Formula 1 lap times can be accurately predicted by combining race context, driver performance, tyre strategy, and track conditions. Feature engineering proved essential for capturing race dynamics, while ensemble machine learning models provided robust and accurate predictions for real-world racing scenarios.
